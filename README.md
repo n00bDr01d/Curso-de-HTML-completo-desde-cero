@@ -44,8 +44,7 @@
 
 ### Enlaces de interés
 
-- [Contenido del curso en kikopalomares.com](https://kikopalomares.com/cursos/html)
-- [Más contenido de HTML en YouTube](https://www.youtube.com/playlist?list=PLnunbwZjHqMOFL0vGRg-2OhV8fTtbujrD)
+- 
 - [Documentación de HTML en Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Documentación de HTML en W3schools](https://www.w3schools.com/html/)
 
